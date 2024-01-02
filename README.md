@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mobius-code
-- 👀 I’m interested in the universe
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning programming, networking, and all things Linux
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me@ mobius777@protonmail.com
 
